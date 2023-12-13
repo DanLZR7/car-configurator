@@ -1,0 +1,17 @@
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\PdfSharp.dll
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\PdfSharp.xml
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Dan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\PdfSharp.Charting.resources.dll
